@@ -1,5 +1,5 @@
 # Introduction
-Dive into the data job market! Focusing on business analyst roles. This project explores top-paying jobs, in-demand skills, and where high demand jobs meets high salary in business analytics
+Dive into the data/business analyst job market! Focusing on business analyst roles. This project explores top-paying jobs, in-demand skills, and where high demand jobs meets high salary in business analytics
 
 SQL queries? Check them out here: [Project_sql](/Project_sql/)
 
@@ -333,4 +333,5 @@ From the analysis, several general insights emerged:
 5. **Python as a Strong Contender**, ***Excel Surprisingly Absent***: Python follows closely with 5 mentions for top-paying jobs, while other skills like Tableau and Snowflake show moderate demand; notably, Excel—often considered a staple for analysts—is not among the top skills, suggesting a shift toward more advanced tools.e force multipliers with fewer postings but top-tier salaries ($114k/$110k) because cloud data stacks (storage, compute, IAM) power scalable analytics and self-serve BI.
 
 ### Closing Thoughts
+
 This project further enhanced my SQL skills and provided valuable insights for those venturing into the business analyst job market. The findings from the analysis serves as a guide to prioritizing skills development and job search efforts. Aspiring business and even data analyst can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of business analytics.
